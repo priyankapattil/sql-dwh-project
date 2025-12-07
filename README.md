@@ -99,6 +99,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## About Me
 
-Hi there! I'm an IT professional who loves to keep learning and sharing knowledge and make working with data enjoyable and engaging!
+Hi there! I'm an IT professional who loves to keep learning and sharing knowledge and make learning easy and enjoyable for everyone!
 
 
